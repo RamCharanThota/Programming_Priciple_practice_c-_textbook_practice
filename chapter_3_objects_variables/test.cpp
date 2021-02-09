@@ -5,8 +5,10 @@
 using namespace std;
 
 int main(){
-    vector<string> name;
-    name[0]="cherry";
+    double x {2.7};
+    char y{48} ;
 
-    cout<<name[0];
+
+    cout <<x<<"    " <<y;
+
 }
